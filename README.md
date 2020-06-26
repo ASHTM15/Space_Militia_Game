@@ -145,4 +145,6 @@ What planned tasks were not done?
 
 **GamePlay Links** **:**
 
-  https://www.youtube.com/watch?v=pZxdeIQI5Gk&feature=youtu.be
+ Video: https://www.youtube.com/watch?v=pZxdeIQI5Gk&feature=youtu.be
+  
+ Download Build: https://drive.google.com/drive/u/1/folders/1T-X4caetqt-ANwpAOXRyTxXTmmvn8uO7
